@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*.pyc
+*.log
+.coverage
+htmlcov/
+env/
+config.py
+
